@@ -12,7 +12,7 @@ ability to share logic and state between multiple components by writing our own
 and `useHistory` hooks from React Router are hooks that let us access the
 `params` and `history` objects from React Router in any component we want. In
 this lesson, you'll learn how to create your own custom hooks by extracting
-hooks-related logic out of components and into a reusable hook function.
+hooks-related logic out of components and into a reusable hook function...
 
 ## Setup
 
